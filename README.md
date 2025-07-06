@@ -1,2 +1,2 @@
 # Deltarune-Betrayal-Demo
-this is a Deltarune fangame. Deltarune is created by Toby Fox I do not own any of the characters shown
+This is a Deltarune fangame made by Mr. String. Deltarune is created by Toby Fox I do not own any of the characters shown
